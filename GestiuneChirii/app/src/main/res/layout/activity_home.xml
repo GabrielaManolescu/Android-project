@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/colorhome"
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:id="@+id/tv_home_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/gestiune_inchirierii_de_imobile"
+
+        android:textAllCaps="true"
+        android:textColor="@color/cardview_dark_background"
+        android:textSize="20dp"
+        android:textStyle="bold"
+
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn_home_addRentsEstate"
+        android:layout_width="250dp"
+        android:layout_height="69dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="4dp"
+        android:background="@drawable/buttonsign"
+
+        android:text="@string/lista_imobilelor_de_inchiriat_si_adaugare_imobile"
+
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_home_title" />
+
+    <Button
+        android:id="@+id/btn_home_viewRealEstate"
+        android:layout_width="248dp"
+        android:layout_height="70dp"
+        android:background="@drawable/buttonsign"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="4dp"
+        android:text="@string/vizualizare_imobile_noi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_home_addRentsEstate" />
+
+    <Button
+        android:id="@+id/btn_home_addHouses"
+        android:layout_width="248dp"
+        android:layout_height="70dp"
+        android:background="@drawable/buttonsign"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="4dp"
+        android:text="@string/adauga_casa_noua_de_inchiriat"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_home_viewRealEstate" />
+
+    <Button
+        android:id="@+id/btn_home_AboutUs"
+        android:layout_width="248dp"
+        android:layout_height="70dp"
+        android:background="@drawable/buttonsign"
+        android:layout_marginTop="7dp"
+        android:layout_marginEnd="4dp"
+        android:text="@string/despre_noi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/btn_home_addHouses" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="105dp"
+        android:layout_height="108dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="36dp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/h32" />
+</androidx.constraintlayout.widget.ConstraintLayout>

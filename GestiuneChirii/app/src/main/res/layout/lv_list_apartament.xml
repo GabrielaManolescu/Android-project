@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="50dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/lv_estate_background">
+
+
+    <ImageView
+        android:id="@+id/lv_list_imageHome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="44dp"
+        android:src="@drawable/ic_baseline_house_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </ImageView>
+
+    <TextView
+
+        android:id="@+id/lv_list_nameEstate"
+        android:layout_width="99dp"
+        android:layout_height="24dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="36dp"
+        android:text="@string/lv_name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.101"
+        app:layout_constraintStart_toEndOf="@id/lv_list_imageHome"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lv_list_date"
+        android:layout_width="136dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="36dp"
+        android:text="@string/lv_date"
+        android:textAllCaps="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.539"
+        app:layout_constraintStart_toEndOf="@id/lv_list_nameEstate"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lv_list_price"
+        android:layout_width="45dp"
+        android:layout_height="18dp"
+        android:layout_marginTop="36dp"
+        android:text="@string/lv_price"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/lv_list_imageHome"
+
+         />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

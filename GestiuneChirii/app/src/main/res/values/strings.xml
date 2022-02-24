@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Aplicatie Gestiune Chirii</string>
+    <string name="add_email">Email</string>
+    <string name="add_password">Password</string>
+    <string name="main_login">LOGIN:</string>
+    <string name="main_sign_in">SIGN IN</string>
+    <string name="main_signInCreate">Don\'t have an account?</string>
+    <string name="main_signUp">Sign Up</string>
+    <string name="lv_name">Name</string>
+    <string name="lv_date">Date</string>
+    <string name="lv_price">Price:</string>
+    <string name="name_adapter_defoult_value">-</string>
+    <string name="btn_delete">btn_delete</string>
+    <string name="alert_delete">alert_delete</string>
+    <string name="add_app">Adauga Apartament</string>
+    <string name="desc_add_ap">Descriere apartament (ex: Apartament 2 camere):</string>
+    <string name="locatie_tv">Locatie:</string>
+    <string name="pret_tv_add">Pret:</string>
+    <string name="data_introducere_tv">Data introducere</string>
+    <string name="save_btn">Save</string>
+    <string name="cancel_btn_add">Cancel</string>
+    <string name="adauga_apartament_tv_title">Adauga Apartament</string>
+    <string name="descriere_apartament_ex_apartament_2_camere">Descriere apartament (ex: Apartament 2 camere):</string>
+    <string name="locatie_tv_editap">Locatie:</string>
+    <string name="pret_tv_editap">Pret:</string>
+    <string name="data_introducere_tvadddate">Data introducere</string>
+    <string name="save_btn_editsaveap">Save</string>
+    <string name="cancel_btn_editcancel">Cancel</string>
+    <string name="delete_btn_delete">Delete</string>
+    <string name="rate_me_feedback">Rate me!</string>
+    <string name="v0_0_1">v0.0.1</string>
+    <string name="feedback_2022">2022</string>
+    <string name="gestiune_inchirierii_de_imobile">Gestiune Inchirierii de Imobile</string>
+    <string name="lista_imobilelor_de_inchiriat_si_adaugare_imobile">Lista Imobilelor de inchiriat si adaugare Imobile</string>
+    <string name="vizualizare_imobile_noi">Vizualizare Imobile Noi</string>
+    <string name="adauga_casa_noua_de_inchiriat">Adauga Casa Noua de inchiriat</string>
+    <string name="despre_noi">Despre noi</string>
+    <string name="descriere_casa_edit">Descriere Casa:</string>
+    <string name="locatia_si_numele_proprietarului">Locatia si numele proprietarului:</string>
+    <string name="adauga_casa_btn">Adauga Casa</string>
+    <string name="vizualizare_case_btn">Vizualizare case</string>
+    <string name="add_a_new_apartament">Add a new Apartament</string>
+    <string name="name_tiet_signup">Name</string>
+    <string name="email_tiet_signup">Email</string>
+    <string name="password_tiet_signup">Password</string>
+    <string name="create_account_tiet">Create Account</string>
+    <string name="retype_password_tiet_signup">Retype Password</string>
+    <string name="you_are_tvsignup">You are:</string>
+    <string name="client_rbsignup">Client</string>
+    <string name="owner_rb">Owner</string>
+    <string name="id_textid">Id</string>
+    <string name="descriere_edittext_house">Descriere:</string>
+    <string name="locatie_si_nume_proprietar">Locatie si nume proprietar:</string>
+    <string name="editare_btnn">Editare</string>
+    <string name="stergere_btndelete">Stergere</string>
+    <string name="img_casa_apartament">Img Casa/Apartament</string>
+    <string name="complete_the_descrip">Complete in the Description field!</string>
+    <string name="complete_theprice">Complete in the Price field!</string>
+    <string name="date_complete">Complete the Date: dd/MM/yyyy!</string>
+    <string name="comp_descp">Complete in the Description field!</string>
+    <string name="comp_in_price">Complete in the Price field!</string>
+    <string name="comp_date">Complete the Date: dd/MM/yyyy!</string>
+    <string name="feedback_mult">Multumim pentru feedback!</string>
+    <string name="enter_all_data">Enter All Data</string>
+    <string name="add_house_succ">Adaugarea casei s-a realizat cu succes!</string>
+    <string name="username_main">Username</string>
+    <string name="password_main">Password</string>
+    <string name="invalid_emial_usef">Invalid Email/User. Minim 4 characters</string>
+    <string name="invalid_password">Invalid Password. Minim 4 characters</string>
+    <string name="usernn">Username</string>
+    <string name="passwordd">Password</string>
+    <string name="login_succ">Login Succesful!</string>
+    <string name="inv_user_faild">Invalid User! Login Faild</string>
+    <string name="pass_signup">Password</string>
+    <string name="username_signup_new">Username</string>
+    <string name="adaugati_view">Nu sunt adaugati!</string>
+    <string-array name="spn_add_location">
+        <item>Bucuresti-Ilfov</item>
+        <item>Brasov</item>
+        <item>Cluj-Napoca</item>
+        <item>Constanta</item>
+        <item>Timisoara</item>
+        <item>Sibiu</item>
+        <item>Iasi</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/manol/.gradle/caches/transforms-3/43711b72eaf2f529e5b9b1576380fb27/transformed/appcompat-1.3.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.1" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/drawable/buttonsign.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/drawable/coloradd.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/drawable/colorfeedback.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/drawable/colorhome.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_add_apartament.xml" value="0.22" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_display_json_real_estate.xml" value="0.1796875" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_edit_apartament.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_feedback.xml" value="0.22" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_houses_rent.xml" value="0.1796875" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_list_apartaments.xml" value="0.1796875" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_list_estate.xml" value="0.22" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_rent.xml" value="0.1796875" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_sign_up_create_new_account.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/activity_view_houses.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/dialog_update.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/houses_item_list.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/lv_list_apartament.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/lv_list_estate.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/manol/AndroidStudioProjects/GestiuneChirii/app/src/main/res/layout/lv_real_estate_view.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
